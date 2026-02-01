@@ -37,6 +37,16 @@
         "${input:cardId}"
       ],
       "problemMatcher": []
+    },
+    {
+      "label": "Sync Contained Objects",
+      "type": "shell",
+      "command": "python",
+      "args": [
+        "${workspaceFolder}${pathSeparator}.vscode${pathSeparator}sync_contained_objects.py",
+        "${file}"
+      ],
+      "problemMatcher": []
     }
   ],
   "inputs": [
