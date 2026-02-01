@@ -1,8 +1,8 @@
 {
   "ColorDiffuse": {
-    "b": 0,
-    "g": 0.36652,
-    "r": 0.70588
+    "b": 1,
+    "g": 1,
+    "r": 1
   },
   "ContainedObjects_order": [
     "1TheGathering.667111",
@@ -90,14 +90,32 @@
     "Ático.393304"
   ],
   "ContainedObjects_path": "NotZ.f85885",
+  "CustomMesh": {
+    "ColliderURL": "https://steamusercontent-a.akamaihd.net/ugc/1830153464725326654/AFB8F257CE1E4973F4C06160A2E156C147AEE1E3/",
+    "CustomShader": {
+      "FresnelStrength": 0,
+      "SpecularColor": {
+        "b": 1,
+        "g": 1,
+        "r": 1
+      },
+      "SpecularIntensity": 0,
+      "SpecularSharpness": 2
+    },
+    "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/11312325498705936654/E7BA2A7F030528CFC4EE2AB131897F82AEF18EB7/",
+    "MaterialIndex": 3,
+    "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/1830153464725326654/AFB8F257CE1E4973F4C06160A2E156C147AEE1E3/",
+    "TypeIndex": 6
+  },
+  "GMNotes": "{\n  \"id\": \"CB01\"\n}",
   "GUID": "f85885",
   "Hands": false,
-  "Name": "Bag",
-  "Nickname": "NotZ",
+  "Name": "Custom_Model_Bag",
+  "Nickname": "La Noche de la Fanática",
   "Transform": {
     "rotY": 270,
     "scaleX": 1,
-    "scaleY": 1,
+    "scaleY": 0.14,
     "scaleZ": 1
   }
 }
