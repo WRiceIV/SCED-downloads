@@ -14,7 +14,7 @@
     "PDFPage": 0,
     "PDFPageOffset": 0,
     "PDFPassword": "",
-    "PDFUrl": "https://steamusercontent-a.akamaihd.net/ugc/2115061845793806189/6FC67F9AF9224452E2D8F25E63B88D702B21B0DC/"
+    "PDFUrl": "https://steamusercontent-a.akamaihd.net/ugc/15381435478005270892/84B829F03374F126E3ABF77728A80919E9525133/"
   },
   "Description": "",
   "DragSelectable": true,
@@ -31,7 +31,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Custom_PDF",
-  "Nickname": "Rules Reference",
+  "Nickname": "Referencia de Reglas",
   "Snap": true,
   "Sticky": true,
   "Tooltip": true,
