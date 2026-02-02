@@ -17,8 +17,7 @@
   "Name": "Card",
   "Nickname": "Wrapped Around The Finger",
   "Tags": [
-    "PlayerCard",
-    "ScenarioCard"
+    "PlayerCard"
   ],
   "Transform": {
     "rotY": 270,

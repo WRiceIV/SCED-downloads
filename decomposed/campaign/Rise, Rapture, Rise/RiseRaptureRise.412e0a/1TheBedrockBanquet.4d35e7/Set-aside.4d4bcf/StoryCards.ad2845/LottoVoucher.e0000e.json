@@ -17,6 +17,7 @@
   "Name": "Card",
   "Nickname": "Lotto Voucher",
   "Tags": [
+    "Asset",
     "ScenarioCard"
   ],
   "Transform": {

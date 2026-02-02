@@ -17,8 +17,7 @@
   "Name": "Card",
   "Nickname": "Wrath Of The Deep Ones",
   "Tags": [
-    "PlayerCard",
-    "ScenarioCard"
+    "PlayerCard"
   ],
   "Transform": {
     "rotY": 270,

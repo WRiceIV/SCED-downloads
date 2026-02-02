@@ -17,8 +17,7 @@
   "Name": "Card",
   "Nickname": "Foul Paralysis",
   "Tags": [
-    "PlayerCard",
-    "ScenarioCard"
+    "PlayerCard"
   ],
   "Transform": {
     "rotY": 270,
